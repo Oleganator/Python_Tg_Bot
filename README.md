@@ -37,11 +37,11 @@
 - Клонирование репозитория:
 
 ```bash
-git clone https://github.com/Oleganator/Python_bot.git
+git clone https://github.com/Oleganator/Python_Tg_Bot.git
 ```
 
 ```bash
-cd Python_bot
+cd Python_Tg_bot
 ```
 
 - Установка зависимости:
@@ -59,7 +59,7 @@ TELEGRAM_BOT_TOKEN=ваш_токен_бота
 - Запуск бота:
 
 ```bash
-python test_tg_bot.py
+python main.py
 ```
 
 ## Стек технологий
